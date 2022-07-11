@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Silvia</h1>
-<h3 text-align="justify">Student of Humanities Computing at the University of Pisa. I am developing interdisciplinary skills, mainly oriented to bring together information or digital technologies with the humanistic tradition. I am very interested in the disciplines of design, communication and marketing.</h3>
+<h3 text-align="justify">Student of Digital Humanities at the University of Pisa. I am developing interdisciplinary skills, mainly oriented to bring together information or digital technologies with the humanistic tradition. I am very interested in the disciplines of design, communication and marketing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
